@@ -1,10 +1,10 @@
-# 🚚 Supply Chain Optimization – Velvét Company
+# 🚚 Supply Chain Optimization
 
 This project focuses on optimizing the supply chain of **Velvét Company**, a global leader in cosmetics and personal care, by minimizing transportation costs and improving delivery efficiency.
 
 ## 🔍 Project Overview
 
-Velvét Company is preparing for the upcoming Black Friday surge while addressing customer complaints about delivery delays. The project aims to streamline product distribution across three main transportation routes to meet demand efficiently and cost-effectively.
+A Company is preparing for the upcoming Black Friday surge while addressing customer complaints about delivery delays. The project aims to streamline product distribution across three main transportation routes to meet demand efficiently and cost-effectively.
 
 ## 🛠 Project Objectives
 
